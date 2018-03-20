@@ -1,0 +1,226 @@
+{
+  "nodes":[
+    {
+      "name": "Naturaleza",
+      "items": [
+        {
+          "title": "Reservas de la biosfera",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png",
+          "subItems": [
+            {
+              "title": "Reservas de la biosfera Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            },
+            {
+              "title": "Reservas de la biosfera",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            }
+          ]
+        },
+        {
+          "title": "PARQUES NACIONALES",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png",
+          "subItems": [
+            {
+              "title": "Parques nacionales Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            },
+            {
+              "title": "Parques nacionales",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            }
+          ]
+        },
+        {
+          "title": "SENDEROS DE PEQUEÑO RECORRIDO (PR)",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png",
+          "subItems": [
+            {
+              "title": "PR Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            },
+            {
+              "title": "PR",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            }
+          ]
+        },
+        {
+          "title": "SENDEROS DE GRAN RECORRIDO (GR)",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png",
+          "subItems": [
+            {
+              "title": "GR Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            },
+            {
+              "title": "GR",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            }
+          ]
+        },
+        {
+          "title": "RUTAS EN BICICLETA (IMBA)",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png",
+          "subItems": [
+            {
+              "title": "Rutas en bicicleta (IMBA) Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            },
+            {
+              "title": "Rutas en bicicleta (IMBA)",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            }
+          ]
+        },
+        {
+          "title": "CAMINOS NATURALES",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png",
+          "subItems": [
+            {
+              "title": "Caminos Naturales Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            },
+            {
+              "title": "Caminos Naturales",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            }
+          ]
+        },
+        {
+          "title": "VÍAS VERDES",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png",
+          "subItems": [
+            {
+              "title": "Vías Verdes Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            },
+            {
+              "title": "Vías Verdes",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco1.png"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Cultura",
+      "items":[
+        {
+          "title": "RUTAS CULTURALES DE ESPAÑA",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco2.png"
+        },
+        {
+          "title": "CAMINO DE SANTIAGO",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco2.png",
+          "subItems": [
+            {
+              "title": "Camino de Santiago Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco2.png"
+            },
+            {
+              "title": "Camino de Santiago",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco2.png"
+            }
+          ]
+        },
+        {
+          "title": "CAMINO DE SANTIAGO PATRIMONIO MUNDIAL (UNESCO)",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco2.png",
+          "subItems": [
+            {
+              "title": "Camino de Santiago Patrimonio Mundial Información",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco2.png"
+            },
+            {
+              "title": "Camino de Santiago Patrimonio Mundial",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco2.png"
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "name": "Ocio",
+      "items":[
+        {
+          "title": "EL TIEMPO (AEMET)",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+        },
+        {
+          "title": "RTVE",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png",
+          "subItems": [
+            {
+              "title": "RTVE - Arte Románico",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+            },
+            {
+              "title": "RTVE - Destino España",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+            },
+            {
+              "title": "RTVE - La luz y el misterio de las catedrales",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+            },
+            {
+              "title": "RTVE - Un país para comerselo",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+            }
+          ]
+        },
+        {
+          "title": "PATRONATOS DE TURISMO",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+        },
+        {
+          "title": "ALBERGUES JUVENILES (REAJ)",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+        },
+        {
+          "title": "PARADORES",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco3.png"
+        }
+      ]
+    },
+
+    {
+      "name": "Otros",
+      "items":[
+        {
+          "title": "PATRIMONIO CULTURAL",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco4.png"
+        },
+        {
+          "title": "PATRIMONIO MUNDIAL (UNESCO)",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco4.png"
+        },
+        {
+          "title": "MAPAS DEL IGN",
+          "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco4.png",
+          "subItems": [
+            {
+              "title": "Mapas 1:200.000",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco4.png"
+            },
+            {
+              "title": "Mapas 1:500.000",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco4.png"
+            },
+            {
+              "title": "Mapas Camino de Santiago",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco4.png"
+            },
+            {
+              "title": "Mapas Espacios Naturales Protegidos",
+              "imagen": "/webappbuilder/apps/19/widgets/GridLegend/images/nco4.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+
+}

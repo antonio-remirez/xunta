@@ -1,0 +1,43 @@
+<div>
+
+  <div class="flex-header-container">
+    <div class="flex-header-item">
+      <div class="jimu-btn" data-dojo-attach-event="onclick: _showNaturaleza">${nls.naturalezaNode}</div>
+    </div>
+    <div class="flex-header-item">
+      <div class="jimu-btn" data-dojo-attach-event="onclick: _showCultura">${nls.culturaNode}</div>
+    </div>
+    <div class="flex-header-item">
+      <div class="jimu-btn" data-dojo-attach-event="onclick: _showOcio">${nls.ocioNode}</div>
+    </div>
+    <div class="flex-header-item">
+      <div class="jimu-btn" data-dojo-attach-event="onclick: _showOtros">${nls.otrosNode}</div>
+    </div>
+    <div class="flex-header-item">
+      <div class="jimu-btn" data-dojo-attach-event="onclick: _showSearch"><img src="/webappbuilder/apps/19/widgets/GridLegend/images/search.png" height="15px"></div>
+    </div>
+  </div>
+
+  <div class="flex-container" data-dojo-attach-point="nodeNaturaleza" id="containerNaturaleza" style="display:flex">
+  </div>
+
+  <div class="flex-container" data-dojo-attach-point="nodeCultura" id="containerCultura" style="display:none">
+  </div>
+  
+  <div class="flex-container" data-dojo-attach-point="nodeOcio" id="containerOcio" style="display:none">
+  </div>
+  
+  <div class="flex-container" data-dojo-attach-point="nodeOtros" id="containerOtros" style="display:none">
+  </div>
+
+  <div id="containerSearch" data-dojo-attach-point="nodeSearch" style="display:none; margin:15px">
+    <div style="margin-bottom:15px">
+      <input class="jimu-input" type="text" data-dojo-type="dijit/form/TextBox" 
+        data-dojo-attach-point="searchTextBox" style="box-sizing: content-box !important;" value="" /> 
+      <input type="button" class="jimu-btn"  data-dojo-attach-event="onclick:_searchLayer" value="Buscar" />
+    </div>
+    <div class="flex-container" id="searchNodes">
+    </div>
+  </div>
+  
+</div>
