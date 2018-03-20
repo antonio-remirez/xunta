@@ -1,0 +1,24 @@
+{
+  "name": "WMSLoader",
+  "2D": true,
+  "3D": true,
+  "platform": "HTML",
+  "version": "0.0.1",
+  "author": "@ARR",
+  "description": "Cargar WMS de Catastro",
+  "copyright": "@ARR",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "inPanel": true,
+	"hasConfig": true,
+	"hasUIFile": true,
+	"hasSettingPage": false,
+	"hasSettingUIFile": false,
+	"hasSettingLocale": false,
+	"hasSettingStyle": false,
+	"keepConfigAfterMapSwitched": false,
+	"supportMultiInstance": false,
+	"hasLocale": false,
+	"hasStyle": false
+  }
+}

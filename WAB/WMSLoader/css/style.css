@@ -1,0 +1,19 @@
+.jimu-widget-wmsloader div:first-child{
+  color: red;
+}
+
+.jimu-btn .buttonSearch
+{
+	padding-top: 1em;
+}
+
+.jimu-input
+{
+	padding-bottom: 10px;
+}
+
+.wmsLayers
+{
+	display: none;
+	padding: 30px;
+}
