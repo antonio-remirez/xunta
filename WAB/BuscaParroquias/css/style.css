@@ -1,0 +1,10 @@
+.test-xunta-widget h3 {
+  font-size: 1.2em;
+}
+.test-xunta-widget h3, p {
+  margin-top: 0;
+}
+
+.buscador{
+  /*margin-bottom: 1em;*/
+}

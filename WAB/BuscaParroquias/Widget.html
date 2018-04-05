@@ -1,0 +1,38 @@
+<div>
+    
+  <table>
+
+    <tr id="trProvincias" style="display:block">
+      <td><label for="selectProvincia">Provincia:</label></td>
+      <td>
+          <select id="selectProvincia" style="display:block;" data-dojo-attach-event="onchange:cargaConcellos">
+            <option value="-1">Seleccione Provincia</option>
+            <option value="15" text="A Coruña">A Coruña</option>
+            <option value="27" text="Lugo">Lugo</option>
+            <option value="32" text="Ourense">Ourense</option>
+            <option value="36" text="Pontevedra">Pontevedra</option>
+          </select>
+      </td>
+    </tr> 
+    
+    <tr id="trConcellos" style="display:none">
+      <td><label for="selectConcellos">Concellos:</label></td>
+      <td>
+          <select id="selectConcellos" style="display:block;" data-dojo-attach-event="onchange:cargaParroquias">
+          </select>
+      </td>
+      <td><button data-dojo-attach-event="onclick:zoomConcello"><img src="widgets/TestXuntaWidget/images/search-20.png"></button></td>
+    </tr>
+
+    <tr id="trParroquias" style="display:none;">
+      <td><label for="selectParroquias">Parroquia:</label></td>
+      <td>
+          <select id="selectParroquias" style="display:block;">
+          </select>
+      </td>
+      <td><button data-dojo-attach-event="onclick:zoomParroquia"><img src="widgets/TestXuntaWidget/images/search-20.png"></button></td>	
+    </tr>			
+
+  </table>
+	
+</div>
